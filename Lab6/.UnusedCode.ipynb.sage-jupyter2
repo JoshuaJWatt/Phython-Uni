@@ -1,0 +1,4 @@
+{"backend_state":"running","kernel":"python3","kernel_state":"idle","kernel_usage":{"cpu":0,"memory":78970880},"trust":true,"type":"settings"}
+{"id":"f092e3","input":"","pos":0,"state":"done","type":"cell"}
+{"id":0,"time":1556915659290,"type":"user"}
+{"last_load":1556915659671,"type":"file"}
